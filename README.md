@@ -10,15 +10,7 @@ This project is **not a full production-ready system**. It intentionally keeps t
 
 If this content was useful, your support makes a real difference and helps me continue sharing knowledge with the community!
 
-<p align="center">
-  <a href="https://buymeacoffee.com/aruw" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/Aruw/Resources/refs/heads/main/buy-me-a-coffe-banner.jpg"
-      alt="Buy me a coffee"
-      style="border-radius:14px; cursor:pointer; width:600px;"
-    />
-  </a>
-</p>
+[![Buy me a coffee](https://raw.githubusercontent.com/Aruw/Resources/refs/heads/main/buy-me-a-coffe-banner.jpg)](https://buymeacoffee.com/aruw)
 
 ---
 
