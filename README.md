@@ -30,12 +30,14 @@ If this content was useful, your support makes a real difference and helps me co
 
 - Maven
 - Lombok
+- Docker
 - Java 25
 - MariaDB
 - MapStruct
 - Spring Boot 4
 - Spring GraphQL
 - Spring Data JPA
+- Docker Compose
 - GraphQL Java Extended Scalars
 
 ---
